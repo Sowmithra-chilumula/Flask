@@ -1,5 +1,5 @@
 services:
-  - type: web
+    type: web
     name: flask2
     runtime: python
     buildCommand: ""
