@@ -3,4 +3,4 @@ services:
     name: flask2
     runtime: python
     buildCommand: ""
-    startCommand: "python3 flask.py"
+    startCommand: "python3 app.py"
